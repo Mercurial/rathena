@@ -122,3 +122,5 @@ Thumbs.db
 /libmysql.dll
 /pcre8.dll
 /zlib.dll
+
+/conf/grf-files.txt
